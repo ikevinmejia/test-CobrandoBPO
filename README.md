@@ -35,7 +35,6 @@ npm run build
 - [Webpack](https://webpack.js.org/) - Empaquetador
 - [Firebase](https://firebase.google.com/) - Servicio backend de Google.
 - [SASS](https://sass-lang.com/) - Pre procesador de css.
-- [JEST](https://jestjs.io/) - Tecnología para realizar pruebas.
 
 ## Versionado 📌
 
