@@ -1,0 +1,55 @@
+.mainContent_container {
+    overflow-x: auto;
+    // position: relative;
+
+    table {
+        width: 100%;
+        font-size: large;
+        text-align: center;
+        color: rgb(58, 58, 58);
+
+        thead {
+            font-size: medium;
+            text-transform: uppercase;
+            background-color: rgba(128, 128, 128, 0.363);
+            // text-xs text-gray-700 uppercase bg-gray-50
+
+            .mainContent_items-table-header {
+                padding: 12px 24px ;
+            }
+        }
+
+        .mainContent_firts-item-row {
+            background-color: white;
+            border-bottom: 1px solid gray;
+        }
+
+        .mainContent_firts-item-name-row {
+            padding: 16px 24px ;
+            font-size: medium;
+            color: rgb(71, 70, 70);
+            white-space: nowrap;
+        }
+
+        .mainContent_tbody-items {
+            padding: 16px 12px;
+        }
+
+        .mainContent-table-details-button{
+            width: 80%;
+            height: 30px;
+            border-radius: 12px;
+            border: transparent;
+            background-color: rgb(88, 192, 240);
+            color: white;
+            cursor: pointer;
+
+            &:hover {
+                background-color: rgba(88, 192, 240, 0.575);
+            }
+        }
+
+    }
+
+
+}
