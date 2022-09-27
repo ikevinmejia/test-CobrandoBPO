@@ -29,6 +29,8 @@ Ejecutar el comando
 npm run build
 ```
 
+O también dando [clic aquí](https://test-cobrandobpo-ikevinmejia.netlify.app/) para ver el despliegue en internet.
+
 ## Construido con 🛠️
 
 - [REACT](https://es.reactjs.org/) - Librería web usado para construcción de interfaces.
